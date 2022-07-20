@@ -21,7 +21,6 @@
 
  
  <br/>
- 
-## muito foco e determinação em formação em full stack
+ ## Foco e determinação em se formar em Full Stack Junior | Data Scientist
 
 ### "Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador."
