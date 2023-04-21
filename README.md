@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi 👋, eu sou o Jan Marochi</h1>
-<h3 align="center">Um desenvolvedor Full Stack</h3>
+<h3 align="center">Um Estudante em Ciência de Dados /h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/JanMarochi" target="blank"><img src="https://img.shields.io/twitter/follow/janmarochi?logo=twitter&style=for-the-badge" alt="janmarchi" /></a> </p>
 
-​🔭 Atualmente estou trabalhando no **Buckoid Android App**
+​🔭 Atualmente estou trabalhando no **Projeto de Dados**
 
-- 🌱 Atualmente estou aprendendo **DevOps**
+- 🌱 Atualmente estou aprendendo **Ciência de Dados**
 
-- 💬 Pergunte-me sobre **Android, MEARN**
+- 💬 Pergunte-me sobre **Dados**
 
 - 📫 Como entrar em contato comigo **janmarchi445@gmail.com**
 
