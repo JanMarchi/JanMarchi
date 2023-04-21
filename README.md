@@ -16,7 +16,7 @@
 
 - 📫 Como entrar em contato comigo **janmarchi445@gmail.com**
 
-- ⚡ Curiosidade **Eu sou engraçado**
+- ⚡ Curiosidade **Eu sou Determinado-Focado**
 
 <div>
     <h3 align="left">Contatos</h3>
