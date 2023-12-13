@@ -1,5 +1,5 @@
 
-<h1 align="center">Oi 👋, eu sou o Jan Marochi</h1>
+<h1 align="center">Oi eu sou o (Dev) Jan Marochi</h1>
 <h3 align="center">Um Estudante em Ciência de Dados /h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/JanMarochi" target="blank"><img src="https://img.shields.io/twitter/follow/janmarochi?logo=twitter&style=for-the-badge" alt="janmarchi" /></a> </p>
 
-​🔭 Atualmente estou trabalhando no **Projeto de Dados**
+​🔭 Atualmente estou trabalhando no **Projetos Pessoal**
 
-- 🌱 Atualmente estou aprendendo **Ciência de Dados**
+- 🌱 Atualmente estou aprendendo **Ciência de Dados**-**Desenvolvimento Java**
 
 - 💬 Pergunte-me sobre **Dados**
 
