@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi eu sou o (Dev) Jan Marochi</h1>
-<h3 align="center">Um Estudante em Ciência de Dados /h3>
+<h3 align="center">Um Estudante em Ciência de Dados </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
