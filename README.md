@@ -21,7 +21,7 @@
 <div>
     <h3 align="left">Contatos</h3>
     <p align="left">
-        <a href="https://codepen.iohttps://codepen.io/janmarchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/janmarchi" height="30" width="40" /></a>
+        <a href="https://codepen.iohttps:https://codepen.io/janmarchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/janmarchi" height="30" width="40" /></a>
         <a href="https://dev.to/https://dev.to/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dashboard" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/jan-marchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jan-marchi-54578b243/" height="30" width="40" /></a>
         <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19932909/jan-marochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19932909/jan-marochi" height="30" width="40" /></a>
