@@ -2,21 +2,57 @@
 # Hi, I'm Jan Marochi 👨🏻‍💻
 
 
-I'm passionate about technology! I had my first contact with computers when I was 16 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in Portugal.
+Sou apaixonado por tecnologia! Tive meu primeiro contato com informática aos 16 anos e hoje com 44 anos após uma carreira de empreendimentos no ramo de Marcenaria, quero passar descobrindo um pouco mais sobre essa área maravilhosa, gosto de desafios e  das oportunidades que a tecnologia oferece às pessoas, tenho interesse em conhecer muitos lugares  e  compartilhar o meu conhecimento já adquirido e também adquirir novas experiências, acho que conhecimento é algo que todos deveriam ter acesso.
 
-I have knowledge in: JavaScript, Python, Marchine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT e GITHub.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at janmarochi445gmail.com
+### Como empresário no ramo da marcenaria, além das Hard Skills essenciais para garantir a qualidade dos produtos e serviços, é crucial cultivar e demonstrar diversos soft skills para alcançar o sucesso no negócio. Aqui estão algumas das principais soft skills relevantes.
 
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
+## Soft Skills
 
+### Comunicação Assertiva 
+Possuo habilidade que permite uma comunicação clara e eficaz com clientes, fornecedores e equipe.
+
+### Empatia:
+Capaz de entender e se conectar com as necessidades e preocupações dos outros. Fundamental para construir relacionamentos sólidos e oferecer um serviço personalizado aos clientes.
+
+### Inteligência Emocional:
+Reconhecer e gerenciar minhas próprias emoções, bem como compreender e responder às emoções dos outros de maneira construtiva. Essencial para lidar com desafios e conflitos de forma calma e eficaz.
+
+### Possuo conhecimentos prévios  em: JavaScript, Python, Machine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT e GITHub.
+
+Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em janmarochi445gmail.com ou 
+
+O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porque ama o que está atrás dele. -GK Chesterton
+
+
+## Descripton (EN/US)
+I'm passionate about technology! I had my first contact with computers at the age of 16 and today, at 44 years old, after a career in the carpentry industry, I want to spend time discovering a little more about this wonderful area, I like challenges and the opportunities that technology offers people, I am interested in visiting many places and sharing my already acquired knowledge and also acquiring new experiences, I think that knowledge is something that everyone should have access to.
+
+
+### As an entrepreneur in the carpentry business, in addition to the Hard Skills essential to guarantee the quality of products and services, it is crucial to cultivate and demonstrate several soft skills to achieve success in the business. Here are some of the top relevant soft skills.
+
+## Soft Skills
+
+### Assertive Communication
+I have skills that allow clear and effective communication with customers, suppliers and staff.
+
+### Empathy:
+Able to understand and connect with the needs and concerns of others. Fundamental to building solid relationships and offering personalized service to customers.
+
+### Emotional intelligence:
+Recognize and manage my own emotions, as well as understand and respond to the emotions of others in a constructive way. Essential for dealing with challenges and conflicts calmly and effectively.
+
+### I have prior knowledge in: JavaScript, Python, Machine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT and GITHub.
+
+Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. You can contact me at janmarochi445gmail.com or
+
+The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. -G.K. Chesterton
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <img width="400" src="https://blog.eseg.edu.br/wp-content/uploads/2020/06/original-6f96ee168ab0b419a98fea4f2dfc31fc-780x450.jpg" />
     </td>
     <td style="border: 0";>
-
 
   <h3>Other places you can find me</h3>
     <ul>
@@ -32,11 +68,12 @@ The true soldier does not fight because he hates what is in front of him, but be
           <li>
            <a href="https://web.dio.me/users/janmarchi445?tab=achievements">Follow me on DIO</a>
         </li>
-       
- </ul>
- </td>
-  </tr>
+      </ul>
+  </td>
+ </tr>
 </table>
+
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanMarchi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanMarchi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanMarchi&theme=nord_dark) |
 | :-: | :-: | :-: |
