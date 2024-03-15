@@ -1,41 +1,46 @@
 
-<h1 align="center">Oi eu sou o (Dev) Jan Marochi</h1>
-<h3 align="center">Um Estudante em Ciência de Dados </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi, I'm Jan Marochi 👨🏻‍💻
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janmarchi&label=Profile%20views&color=0e75b6&style=flat" alt="janmarchi" /> </p>
+I'm passionate about technology! I had my first contact with computers when I was 16 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in Portugal.
 
-<p align="left"> <a href="https://twitter.com/JanMarochi" target="blank"><img src="https://img.shields.io/twitter/follow/janmarochi?logo=twitter&style=for-the-badge" alt="janmarchi" /></a> </p>
+I have knowledge in: JavaScript, Python, Marchine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT e GITHub.
 
-​🔭 Atualmente estou trabalhando no **Projetos Pessoal**
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at janmarochi445gmail.com
 
-- 🌱 Atualmente estou aprendendo **Ciência de Dados**-**Desenvolvimento Java**
+The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
 
-- 💬 Pergunte-me sobre **Dados**
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://blog.eseg.edu.br/wp-content/uploads/2020/06/original-6f96ee168ab0b419a98fea4f2dfc31fc-780x450.jpg" />
+    </td>
+    <td style="border: 0";>
 
-- 📫 Como entrar em contato comigo **janmarchi445@gmail.com**
 
-- ⚡ Curiosidade **Eu sou Determinado-Focado**
+  <h3>Other places you can find me</h3>
+    <ul>
+        <li>
+          <a href="https://www.linkedin.com/in/jan-marchi/">Follow me on Twitter</a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/jan_marochi/">Follow me on instagram</a>
+        </li>
+        <li>
+          <a href=mailto:janmarochi445@gmail.com>Contact-me on email</a>
+        </li>
+          <li>
+           <a href="https://web.dio.me/users/janmarchi445?tab=achievements">Follow me on DIO</a>
+        </li>
+       
+ </ul>
+ </td>
+  </tr>
+</table>
 
-<div>
-    <h3 align="left">Contatos</h3>
-    <p align="left">
-        <a href="https://codepen.iohttps:https://codepen.io/janmarchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/janmarchi" height="30" width="40" /></a>
-        <a href="https://dev.to/https://dev.to/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dashboard" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/jan-marchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jan-marchi-54578b243/" height="30" width="40" /></a>
-        <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19932909/jan-marochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19932909/jan-marochi" height="30" width="40" /></a>
-        <a href="https://kaggle.com/https://www.kaggle.com/janmarchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/janmarchi" height="30" width="40" /></a>
-         <a href="https://discord.gg/https://discord.gg/Ftzaqp2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ftzaqp2F" height="30" width="40" /></a>
-    </p>
-</div>
-    <br>
-<div align="center">
-    <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-</div>
-<div>
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanMarchispk&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanMarchispk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanMarchispk&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanMarchi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanMarchi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanMarchi&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanMarchispk&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JanMarchispk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanMarchi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JanMarchi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+
