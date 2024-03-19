@@ -57,7 +57,7 @@ The true soldier does not fight because he hates what is in front of him, but be
   <h3>Other places you can find me</h3>
     <ul>
         <li>
-          <a href="https://www.linkedin.com/in/jan-marchi/">Follow me on Twitter</a>
+          <a href="https://www.linkedin.com/in/jan-marchi/">Follow me on Linkdin</a>
         </li>
         <li>
           <a href="https://www.instagram.com/jan_marochi/">Follow me on instagram</a>
