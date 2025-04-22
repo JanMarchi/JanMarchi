@@ -46,31 +46,26 @@ Recognize and manage my own emotions, as well as understand and respond to the e
 
 Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. You can contact me at janmarochi445gmail.com or
 
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. -G.K. Chesterton
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="5" cellspacing="10" cellpadding="5">
   <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://blog.eseg.edu.br/wp-content/uploads/2020/06/original-6f96ee168ab0b419a98fea4f2dfc31fc-780x450.jpg" />
+    <td style="border: 30;">
+      <h3>Other places you can find me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/jan-marchi/">
+          <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+        </a>
+        <a href="https://www.instagram.com/jan_marochi/">
+          <img width="32"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
+        </a>
+        <a href="mailto:janmarochi445@gmail.com">
+          <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email"/>
+        </a>
+        <a href="https://web.dio.me/users/janmarchi445?tab=achievements">
+          <img width="32"  src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO"/>
+        </a>
+      </p>
     </td>
-    <td style="border: 0";>
-
-  <h3>Other places you can find me</h3>
-    <ul>
-        <li>
-          <a href="https://www.linkedin.com/in/jan-marchi/">Follow me on Linkdin</a>
-        </li>
-        <li>
-          <a href="https://www.instagram.com/jan_marochi/">Follow me on instagram</a>
-        </li>
-        <li>
-          <a href=mailto:janmarochi445@gmail.com>Contact-me on email</a>
-        </li>
-          <li>
-           <a href="https://web.dio.me/users/janmarchi445?tab=achievements">Follow me on DIO</a>
-        </li>
-      </ul>
-  </td>
- </tr>
+  </tr>
 </table>
 
 
