@@ -1,55 +1,63 @@
 
-# Hi, I'm Jan Marochi 👨🏻‍💻
+# 👋 Prazer, sou Jan Marochi — 👨🏻‍💻
 
+Alguém que acredita no poder da reinvenção e na capacidade infinita que todos temos de aprender, crescer e transformar realidades com tecnologia.
 
-Sou apaixonado por tecnologia! Tive meu primeiro contato com informática aos 16 anos e hoje com 44 anos após uma carreira de empreendimentos no ramo de Marcenaria, quero passar descobrindo um pouco mais sobre essa área maravilhosa, gosto de desafios e  das oportunidades que a tecnologia oferece às pessoas, tenho interesse em conhecer muitos lugares  e  compartilhar o meu conhecimento já adquirido e também adquirir novas experiências, acho que conhecimento é algo que todos deveriam ter acesso.
+Minha jornada não começou na programação, mas em algo que sempre me guiou: a curiosidade. Ao longo do tempo, descobri que minha paixão vai além de entender como as coisas funcionam — eu quero construir, conectar, facilitar e melhorar vidas através de soluções criativas e humanas.
 
+Acredito que tecnologia não é apenas código, é ponte. É o elo entre ideias e impacto, entre pessoas e possibilidades. Gosto de aprender todos os dias, testar, errar rápido e melhorar. Para mim, o verdadeiro valor está em aplicar conhecimento com empatia e propósito.
 
-### Como empresário no ramo da marcenaria, além das Hard Skills essenciais para garantir a qualidade dos produtos e serviços, é crucial cultivar e demonstrar diversos soft skills para alcançar o sucesso no negócio. Aqui estão algumas das principais soft skills relevantes.
+Hoje estou mergulhado no universo da Ciência de Dados, automação e inovação — buscando não apenas entender o futuro, mas fazer parte ativa da sua construção.
 
-## Soft Skills
+## 🧠 O que me move:
+- Empatia na prática: ouvir com atenção, entender com profundidade e criar com significado.
 
-### Comunicação Assertiva 
-Possuo habilidade que permite uma comunicação clara e eficaz com clientes, fornecedores e equipe.
+- Aprendizado constante: estudar, aplicar e compartilhar. Sempre em movimento.
 
-### Empatia:
-Capaz de entender e se conectar com as necessidades e preocupações dos outros. Fundamental para construir relacionamentos sólidos e oferecer um serviço personalizado aos clientes.
+- Mentalidade de solução: transformar problemas em oportunidades com criatividade e clareza.
 
-### Inteligência Emocional:
-Reconhecer e gerenciar minhas próprias emoções, bem como compreender e responder às emoções dos outros de maneira construtiva. Essencial para lidar com desafios e conflitos de forma calma e eficaz.
+## 💻 Ferramentas que uso para criar pontes
 
-### Possuo conhecimentos prévios  em: JavaScript, Python, Machine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT e GITHub.
+- **Linguagens & Tech**: JavaScript, Python, Java, HTML, CSS, MySQL, PowerBI, Git, GitHub.
 
-Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em janmarochi445gmail.com ou 
+- **Interesse especial**: Inteligência Artificial, automação e transformação digital com dados.
 
 O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porque ama o que está atrás dele. -GK Chesterton
 
 
-## Descripton (EN/US)
-I'm passionate about technology! I had my first contact with computers at the age of 16 and today, at 44 years old, after a career in the carpentry industry, I want to spend time discovering a little more about this wonderful area, I like challenges and the opportunities that technology offers people, I am interested in visiting many places and sharing my already acquired knowledge and also acquiring new experiences, I think that knowledge is something that everyone should have access to.
+
+# 👋 Hi, I'm Jan Marochi — 👨🏻‍💻
+
+Someone who believes in the power of reinvention and the infinite capacity we all have to learn, grow, and transform reality through technology.
+
+My journey didn't begin with programming, but with something that has always guided me: curiosity. Over time, I discovered that my passion goes beyond understanding how things work — I want to build, connect, facilitate, and improve lives through creative and human-centered solutions.
+
+I believe technology is not just code — it's a bridge. It's the link between ideas and impact, between people and possibilities. I enjoy learning every day, testing, failing fast, and improving constantly. To me, real value lies in applying knowledge with empathy and purpose.
+
+Today, I’m immersed in the world of Data Science, automation, and innovation — aiming not just to understand the future, but to be an active part of building it.
 
 
-### As an entrepreneur in the carpentry business, in addition to the Hard Skills essential to guarantee the quality of products and services, it is crucial to cultivate and demonstrate several soft skills to achieve success in the business. Here are some of the top relevant soft skills.
 
-## Soft Skills
+### 🚀 What drives me
+- Empathy in action: listening deeply, understanding clearly, and creating meaningfully.
 
-### Assertive Communication
-I have skills that allow clear and effective communication with customers, suppliers and staff.
+- Lifelong learning: studying, applying, and sharing. Always evolving.
+  
+- Solution-oriented mindset: turning problems into opportunities with creativity and clarity.
 
-### Empathy:
-Able to understand and connect with the needs and concerns of others. Fundamental to building solid relationships and offering personalized service to customers.
 
-### Emotional intelligence:
-Recognize and manage my own emotions, as well as understand and respond to the emotions of others in a constructive way. Essential for dealing with challenges and conflicts calmly and effectively.
 
-### I have prior knowledge in: JavaScript, Python, Machine Learning, Java, PowerBI, MySQL, HTML, CSS, GIT and GITHub.
+## 💻 Soft Skills & Tools
 
-Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. You can contact me at janmarochi445gmail.com or
+- **Languages & Tech**: JavaScript, Python, Java, HTML, CSS, MySQL, PowerBI, Git, GitHub.
+  
+- **Special interests**: Artificial Intelligence, automation, and digital transformation with data.
+  
 
+## You can contact me:
 <table border="5" cellspacing="10" cellpadding="5">
   <tr>
     <td style="border: 30;">
-      <h3>Other places you can find me</h3>
       <p>
         <a href="https://www.linkedin.com/in/jan-marchi/">
           <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
