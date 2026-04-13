@@ -1,86 +1,82 @@
+<h1 align="center">Jan Marochi</h1>
+<h3 align="center">Data Engineer & AI Applications Developer | Python · TypeScript · Automation</h3>
 
-# 👋 Prazer, sou Jan Marochi — 👨🏻‍💻
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-marchi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:janmarochi445@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://web.dio.me/users/janmarchi445?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/DIO-0097e6?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/JanMarochi" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-Alguém que acredita no poder da reinvenção e na capacidade infinita que todos temos de aprender, crescer e transformar realidades com tecnologia.
+---
 
-Minha jornada não começou na programação, mas em algo que sempre me guiou: a curiosidade. Ao longo do tempo, descobri que minha paixão vai além de entender como as coisas funcionam — eu quero construir, conectar, facilitar e melhorar vidas através de soluções criativas e humanas.
+## About Me
 
-Acredito que tecnologia não é apenas código, é ponte. É o elo entre ideias e impacto, entre pessoas e possibilidades. Gosto de aprender todos os dias, testar, errar rápido e melhorar. Para mim, o verdadeiro valor está em aplicar conhecimento com empatia e propósito.
+I build data-driven solutions and AI-powered applications that solve real business problems. My background combines product thinking with hands-on engineering — from automating financial workflows to designing secure digital voting systems.
 
-Hoje estou mergulhado no universo da Ciência de Dados, automação e inovação — buscando não apenas entender o futuro, mas fazer parte ativa da sua construção.
+I believe technology is a bridge between ideas and impact. Currently focused on **Data Engineering**, **AI automation**, and **full-stack development** with a strong emphasis on purposeful, human-centered design.
 
-## 🧠 O que me move:
-- Empatia na prática: ouvir com atenção, entender com profundidade e criar com significado.
+- 🔭 Currently building: personal finance intelligence systems & AI orchestration platforms
+- 🌱 Deepening knowledge in: LLM integration, ETL pipelines, and cloud-native architectures
+- 💡 Open to: collaborations, open source contributions, and remote opportunities
+- 📍 Based in: Paraná, Brasil
 
-- Aprendizado constante: estudar, aplicar e compartilhar. Sempre em movimento.
+---
 
-- Mentalidade de solução: transformar problemas em oportunidades com criatividade e clareza.
+## Tech Stack
 
-## 💻 Ferramentas que uso para criar pontes
+**Languages**
 
-- **Linguagens & Tech**: JavaScript, Python, Java, HTML, CSS, MySQL, PowerBI, Git, GitHub.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Interesse especial**: Inteligência Artificial, automação e transformação digital com dados.
+**Data & Automation**
 
-O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porque ama o que está atrás dele. -GK Chesterton
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
+**Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-# 👋 Hi, I'm Jan Marochi — 👨🏻‍💻
+---
 
-Someone who believes in the power of reinvention and the infinite capacity we all have to learn, grow, and transform reality through technology.
+## Featured Projects
 
-My journey didn't begin with programming, but with something that has always guided me: curiosity. Over time, I discovered that my passion goes beyond understanding how things work — I want to build, connect, facilitate, and improve lives through creative and human-centered solutions.
+| Project | Description | Stack |
+|---|---|---|
+| [💰 Personal Finance System](https://github.com/JanMarchi/axis-financ) | Financial planning platform with project budgeting and smart tracking | TypeScript |
+| [🗳️ Digital Voting System](https://github.com/JanMarchi/safety-vote) | Secure digital voting for CIPA workplace committees | TypeScript |
+| [🤖 AIOS Core](https://github.com/JanMarchi/aios-core) | AI-orchestrated framework for Full Stack development automation | JavaScript |
+| [🔗 Data Integration Pipeline](https://github.com/JanMarchi/airbyte-intelligence) | ETL/ELT pipelines for data warehouses and lakehouses (Airbyte fork) | Python |
 
-I believe technology is not just code — it's a bridge. It's the link between ideas and impact, between people and possibilities. I enjoy learning every day, testing, failing fast, and improving constantly. To me, real value lies in applying knowledge with empathy and purpose.
+---
 
-Today, I’m immersed in the world of Data Science, automation, and innovation — aiming not just to understand the future, but to be an active part of building it.
+## GitHub Stats
 
+<p align="center">
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanMarchi&theme=nord_dark" />
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanMarchi&hide=Html&theme=nord_dark" />
+</p>
 
+---
 
-### 🚀 What drives me
-- Empathy in action: listening deeply, understanding clearly, and creating meaningfully.
-
-- Lifelong learning: studying, applying, and sharing. Always evolving.
-  
-- Solution-oriented mindset: turning problems into opportunities with creativity and clarity.
-
-
-
-## 💻 Soft Skills & Tools
-
-- **Languages & Tech**: JavaScript, Python, Java, HTML, CSS, MySQL, PowerBI, Git, GitHub.
-  
-- **Special interests**: Artificial Intelligence, automation, and digital transformation with data.
-  
-
-## You can contact me:
-<table border="5" cellspacing="10" cellpadding="5">
-  <tr>
-    <td style="border: 30;">
-      <p>
-        <a href="https://www.linkedin.com/in/jan-marchi/">
-          <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-        </a>
-        <a href="https://www.instagram.com/jan_marochi/">
-          <img width="32"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
-        </a>
-        <a href="mailto:janmarochi445@gmail.com">
-          <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email"/>
-        </a>
-        <a href="https://web.dio.me/users/janmarchi445?tab=achievements">
-          <img width="32"  src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanMarchi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanMarchi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanMarchi&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanMarchi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JanMarchi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
+<p align="center">
+  <i>"The real soldier fights not because he hates what is in front of him, but because he loves what is behind him." — G.K. Chesterton</i>
+</p>
