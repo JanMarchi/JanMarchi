@@ -1,5 +1,5 @@
 <h1 align="center">Jan Marochi</h1>
-<h3 align="center">Data Engineer & AI Applications Developer | Python · TypeScript · Automation</h3>
+<h3 align="center">Analista de Dados | Python | SQL | Power BI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jan-marchi/" target="_blank">
